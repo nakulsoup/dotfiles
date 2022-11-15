@@ -1,0 +1,3 @@
+#!/bin/zsh
+wal -i $1
+xrdb -merge ~/.cache/wal/colors.Xresources
